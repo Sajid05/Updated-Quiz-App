@@ -1,0 +1,4 @@
+#Tue Oct 26 18:35:59 BDT 2021
+base.0=/Users/sajid/Desktop/Industrial Training/Assignments/Assignment 05/updated_quiz_application/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
